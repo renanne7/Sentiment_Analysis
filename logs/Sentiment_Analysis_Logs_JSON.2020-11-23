@@ -1,0 +1,2 @@
+{"asctime": "2020-11-23 23:55:57,558", "name": "Sentiment_Analysis_Logs", "levelname": "INFO", "filename": "app.py", "module": "app", "funcName": "main", "lineno": 325, "msg": "STARTING SENTIMENT ANALYSIS APPLICATION"}
+{"asctime": "2020-11-24 00:41:59,169", "name": "Sentiment_Analysis_Logs", "levelname": "INFO", "filename": "app.py", "module": "app", "funcName": "main", "lineno": 349, "msg": "PROCESS IS COMPLETE"}
